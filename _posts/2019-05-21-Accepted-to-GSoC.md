@@ -12,6 +12,6 @@ For now, my mentors and I started a gitter channel to discuss the project steps 
 
 Stay with the picture I suggested as a logo for the project. It represents the dual space of JuMP logo ;)
 
-![JuMPIcon](../assets/IconJuMP.png)
+![JuMPIcon](../../../assets/IconJuMP.png)
 
 More next week!
